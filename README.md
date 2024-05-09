@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Cosamores</h1>
 <h3 align="center">A passionate fullstack developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosamores&label=Profile%20views&color=0e75b6&style=flat" alt="cosamores" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cosamores&label=Profile%20views&color=0e75b6&style=flat" alt="cosamores" /> </p>
 
 - 🔭 I’m currently working on **Palco Perto App**
 

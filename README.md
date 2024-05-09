@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Palco Perto App**
 
-- 🌱 I’m currently learning **Docker, machine learning algorythms**
+- 🌱 I’m currently learning **Docker and machine learning algorithms**
 
 - 👯 I’m looking to collaborate on **projects that use AI in web applications**
 

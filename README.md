@@ -3,21 +3,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cosamores&label=Profile%20views&color=0e75b6&style=flat" alt="cosamores" /> </p>
 
-- 🔭 I’m currently working on **Palco Perto App**
+- 🔭 I’m currently
+ - working on **Palco Perto App**
+ - 🌱 learning **Docker, machine learning algorythms**
+ - 👯 looking to collaborate with **projects that integrate AI in web applications**
 
-- 🌱 I’m currently learning **Docker, machine learning algorythms**
-
-- 👯 I’m looking to collaborate on **projects that use AI in web applications**
-
-- 👨‍💻 All of my projects are available at [https://cosamores.com](https://cosamores.com)
-
-- 📝 I regularly write articles on [https://cosamores.com](https://cosamores.com)
-
-- 💬 Ask me about **Data sorvengy in Brazil**
-
-- 📫 How to reach me **edamareama@gmail.com**
-
-- 📄 Know about my experiences [https://cosamores.com](https://cosamores.com)
+- 👨‍💻 I like to have fun finding new features for my website: [https://cosamores.com](https://cosamores.com)
+- 📫 Where you can reach me? Ring the bell: **edamareama@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

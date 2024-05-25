@@ -4,9 +4,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cosamores&label=Profile%20views&color=0e75b6&style=flat" alt="cosamores" /> </p>
 
 - 🔭 I’m currently
- - working on **Palco Perto App**
- - 🌱 learning **Docker, machine learning algorythms**
- - 👯 looking to collaborate with **projects that integrate AI in web applications**
+ - - working on **Palco Perto App**
+ - - 🌱 learning **Docker, machine learning algorythms**
+ - - 👯 looking to collaborate with **projects that integrate AI in web applications**
 
 - 👨‍💻 I like to have fun finding new features for my website: [https://cosamores.com](https://cosamores.com)
 - 📫 Where you can reach me? Ring the bell: **edamareama@gmail.com**

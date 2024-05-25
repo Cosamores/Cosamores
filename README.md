@@ -8,7 +8,7 @@
    - 🌱 learning **Docker, machine learning algorythms**
    - 👯 looking to collaborate with **projects that integrate AI in web applications**
 
-- 👨‍💻 I like to have fun finding new features for my website: [https://cosamores.com](https://cosamores.com)
+- 👨‍💻 My website is my playground and I have a lot of fun with it: [https://cosamores.com](https://cosamores.com)
 - 📫 Where you can reach me? Ring the bell: **edamareama@gmail.com**
 
 <h3 align="center">Connect with me:</h3>

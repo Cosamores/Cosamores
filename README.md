@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Diego Cosamores</h1>
-<h3 align="center">A passionate fullstack developer from Brasil</h3>
+<h3 align="center">A passionate developer from Brasil</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cosamores&label=Profile%20views&color=0e75b6&style=flat" alt="cosamores" /> </p>
 
 - 🔭 I’m currently
-   - working on **Palco Perto App**
-   - 🌱 learning **Docker, machine learning algorythms**
+   - working on **Harmonia Music Chat**
+   - 🌱 learning **MCP and data engineering**
    - 👯 looking to collaborate with **projects that integrate AI in web applications**
 
-- 👨‍💻 My website is my playground and I have a lot of fun with it: [https://cosamores.com](https://cosamores.com)
+- 👨‍💻 My website is my playground and I have a lot of fun with it: [https://cosamores.com.br](https://cosamores.com.br)
 - 📫 Where you can reach me? Ring the bell: **edamareama@gmail.com**
 
 <h3 align="center">Connect with me:</h3>

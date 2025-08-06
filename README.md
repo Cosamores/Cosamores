@@ -4,8 +4,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cosamores&label=Profile%20views&color=0e75b6&style=flat" alt="cosamores" /> </p>
 
 - 🔭 I’m currently
-   - working on **Harmonia Music Chat** and **DNA Analyzer**
-   - 🌱 learning **MCP and data engineering**
+   - working on **Harmonia Music Chat**
+   - 🌱 learning **MCP and context engineering for agent development**
    - 👯 looking to collaborate with **projects that integrate AI in web applications**
 
 - 👨‍💻 My website is my playground and I have a lot of fun with it: [https://cosamores.com.br](https://cosamores.com.br)

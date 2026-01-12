@@ -6,8 +6,8 @@
 - 🔭 I’m currently
 
 - working on
-     - **[Rolezim.com](https://rolezim.com)** - A melhor maneira de encontrar música ao vivo**: [https://rolezim.com](https://rolezim.com)
-     - **[Manatrix Plus](https://www.manatrix.com.br)** - AI platform for Strategic Market insights**: [https://www.manatrix.com.br](https://www.manatrix.com.br)
+     - ** [Rolezim.com](https://rolezim.com)** - A melhor maneira de encontrar música ao vivo: [https://rolezim.com](https://rolezim.com)
+     - ** [Manatrix Plus](https://www.manatrix.com.br)** - AI platform for Strategic Market insights: [https://www.manatrix.com.br](https://www.manatrix.com.br)
   
 - 🌱 learning **context engineering for agent development**
 - 👯 looking to collaborate with **projects that integrate AI in frontend applications**

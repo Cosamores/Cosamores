@@ -4,9 +4,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cosamores&label=Profile%20views&color=0e75b6&style=flat" alt="cosamores" /> </p>
 
 - 🔭 I’m currently
-   - working on **Manatrix Plus - AI platform for Strategic Market insights**: [https://www.manatrix.com.br](https://www.manatrix.com.br)
+   - working on
+   - - **Rolezim.com - A melhor maneira de encontrar música ao vivo**: [https://rolezim.com](rolezim.com)
+   - - **Manatrix Plus - AI platform for Strategic Market insights**: [https://www.manatrix.com.br](https://www.manatrix.com.br)
    - 🌱 learning **context engineering for agent development**
-   - 👯 looking to collaborate with **projects that integrate AI in web applications**
+   - 👯 looking to collaborate with **projects that integrate AI in frontend applications**
 
 - 👨‍💻 My website is my playground and I have a lot of fun with it: [https://cosamores.com.br](https://cosamores.com.br)
 - 📫 Where you can reach me? Ring the bell: **edamareama@gmail.com**

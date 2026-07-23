@@ -7,6 +7,7 @@
 
 - working on
      - **[Rolezim.com](https://rolezim.com)** - A melhor maneira de encontrar música ao vivo: [https://rolezim.com](https://rolezim.com)
+     - **[EuApoioVc](https://euapoio.vc)** - Crie sua campanha eleitoral, receba doações online e mostre transparência — tudo em um só lugar. 
      - **[Manatrix Plus](https://manatrix.com.br)** - AI platform for Strategic Market insights: [https://manatrix.com.br](https://manatrix.com.br)
   
 - 🌱 learning **context engineering for agent development**
